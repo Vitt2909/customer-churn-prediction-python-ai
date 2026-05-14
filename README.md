@@ -1,7 +1,5 @@
 <div align="center">
 
-  <img src="assets/dashboard_concept.png" alt="Nexus Churn Intelligence Dashboard" width="700"/>
-
   <h1>Nexus Churn Intelligence</h1>
   <p><strong>Previsão de cancelamento de clientes (churn) para SaaS — do dado sintético ao dashboard interativo</strong></p>
 
@@ -12,6 +10,22 @@
   [![Status](https://img.shields.io/badge/Status-Concluído-22C55E?style=flat-square)]()
 
 </div>
+
+---
+
+## Screenshots
+
+**Visão Geral** — KPIs, distribuição de churn por plano e canal de aquisição
+![Visão Geral](assets/screenshot_01_visao_geral.png)
+
+**Análise de Risco** — Segmentação por plano, canal e região
+![Análise de Risco](assets/screenshot_02_analise_risco.png)
+
+**Preditor Individual** — Formulário interativo para calcular risco em tempo real
+![Preditor Individual](assets/screenshot_03_preditor_individual.png)
+
+**Performance do Modelo** — Métricas, matriz de confusão e curva ROC
+![Performance do Modelo](assets/screenshot_05_performance_modelo.png)
 
 ---
 
